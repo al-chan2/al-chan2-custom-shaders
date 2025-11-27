@@ -1,1 +1,1 @@
-almost all HLSL in here is depth-resolved (not a perfect depth-buffer, since it still relies on what reshade had provided). depth-resolved (dr) term means that all HLSL is based on depth-projection.
+Almost all HLSL shaders here are depth-resolved (not a perfect depth buffer, since they still rely on what ReShade provides). The term 'depth-resolved' (DR) means that all the HLSL is based on depth projection.
